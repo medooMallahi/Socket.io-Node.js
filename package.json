@@ -1,0 +1,26 @@
+{
+  "name": "udemy-socketio-project-1",
+  "version": "1.0.0",
+  "description": "Robert Bunch Udemy course on socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon slack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukigeshiki/udemy-socketio-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yukigeshiki/udemy-socketio-project-1/issues"
+  },
+  "homepage": "https://github.com/Yukigeshiki/udemy-socketio-project-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
